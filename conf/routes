@@ -1,0 +1,4 @@
+GET           /healthcheck                                              @controllers.HealthcheckController.healthcheck()
+GET           /                                                         @controllers.HealthcheckController.healthcheck()
+
+POST          /1.0/reports/waybill                                      @controllers.AwbController.getAwb()

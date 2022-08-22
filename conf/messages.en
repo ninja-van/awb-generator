@@ -1,0 +1,8 @@
+renderAwb.AIRWAYBILL = AIRWAY BILL
+renderAwb.FromSender = FROM (SENDER)
+renderAwb.ToAddressee = TO (ADDRESSEE)
+renderAwb.COD = COD
+renderAwb.deliverBy = Deliver by
+
+Size = Size
+Weight = Weight
